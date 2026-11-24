@@ -8,7 +8,7 @@
         <title>Equilend - Δανεισμός εξοπλισμού</title>
         <! -- το δικο σας αρχειο CSS>
         <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet/css">0
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet/css">
     </head>
 
     <body>
